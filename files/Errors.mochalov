@@ -1,0 +1,11 @@
+class Errors {
+    public static void main(String[] args) {
+        System.out.println(new Failie().fail());
+}
+
+class Failie {
+    int fail() {
+        int i;
+        return 0
+    }
+}
